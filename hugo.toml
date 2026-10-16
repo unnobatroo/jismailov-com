@@ -1,5 +1,5 @@
-baseURL = "https://jalols.page/"
-title   = "Jaloliddin Ismailov"
+baseURL = "https://jismailov.com/"
+title   = "jismailov"
 theme   = "hugo-mini"
 
 defaultContentLanguage              = "en"
@@ -8,7 +8,7 @@ defaultContentLanguageInSubdirectory = false
 enableRobotsTXT = true
 
 [params]
-  description = "Jaloliddin Ismailov — website under renovation, please check back later."
+  description = "Finding myself in different places, sometimes by choice."
   authorName = "Jaloliddin Ismailov"
   authorURL  = "https://jalols.page/"
   copyrightYear = 2026
@@ -18,7 +18,6 @@ enableRobotsTXT = true
   [params.social]
     github    = "https://github.com/unnobatroo"
     linkedin  = "https://linkedin.com/in/jismailov"
-    unsplash  = "https://unsplash.com/@unnobatroo"
     goodreads = "https://www.goodreads.com/unnobatroo"
     email     = "me@jismailov.com"
 

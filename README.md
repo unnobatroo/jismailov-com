@@ -1,4 +1,4 @@
-# jalols.page
+# jismailov.com
 
 My personal website and blog developed with [Hugo](https://gohugo.io) and its [Mini](https://github.com/zavarovkv/hugo-mini) theme.
 
