@@ -1,7 +1,7 @@
 +++
-description = "Jaloliddin Ismailov — website under renovation"
+description = "jismailov - Main"
 +++
 
-Salam! This website is currently in the process of getting renovated, please check back later.
+Salam and welcome.
 
-In the meantime, you can access and reach me through my personal links down below.
+Before you're bored by the emptiness around here, go reach me through my personal links down below.

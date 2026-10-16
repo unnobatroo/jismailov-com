@@ -2,24 +2,24 @@ baseURL = "https://jismailov.com/"
 title   = "jismailov"
 theme   = "hugo-mini"
 
-defaultContentLanguage              = "en"
-defaultContentLanguageInSubdirectory = false
+defaultContentLanguage                = "en"
+defaultContentLanguageInSubdirectory   = false
 
 enableRobotsTXT = true
 
 [params]
   description = "Finding myself in different places, sometimes by choice."
   authorName = "Jaloliddin Ismailov"
-  authorURL  = "https://jalols.page/"
+  authorURL  = "https://jismailov.com/"
   copyrightYear = 2026
   recentSidebarCount = 5
   socialSharing = false
 
   [params.social]
+    email     = "me@jismailov.com"
     github    = "https://github.com/unnobatroo"
     linkedin  = "https://linkedin.com/in/jismailov"
     goodreads = "https://www.goodreads.com/unnobatroo"
-    email     = "me@jismailov.com"
 
 [permalinks]
   blog = "/:slug/"
@@ -29,8 +29,8 @@ enableRobotsTXT = true
     [markup.goldmark.renderer]
       unsafe = true
 
-[[menu.main]]
-  identifier = "blog"
-  name       = "Articles"
-  url        = "/blog/"
-  weight     = 1
+# [[menu.main]]
+#   identifier = "blog"
+#   name       = "Articles"
+#   url        = "/blog/"
+#   weight     = 1
